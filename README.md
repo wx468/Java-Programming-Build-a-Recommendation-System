@@ -1,0 +1,2 @@
+# Java-Programming-Build-a-Recommendation-System
+Learn without enrollment! I searched almost the online resources and finally made it. I tried to find if there are open resources on other website. I tried to get the video and assignment link from the Coursera inspect. I tried to connect several users’ LinkedIn who uploaded their code on Github. God bless, finally, thanks for a user who uploaded all assignment instructions on his Github. I’ve already collect almost all the material and write in a pdf file and will share it here. Hope that may help you. 
