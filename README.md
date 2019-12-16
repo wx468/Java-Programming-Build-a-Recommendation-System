@@ -12,6 +12,8 @@ The calculation is based on the weighted average from the top similar raters：
   The closer to your rating, the greater the weight
 </p><br/>
 In this way, you will receive more accurate recommendation because we've already ignored those people have different preferences that may result in bias.<br/><br/>
+
+
 ### More:
 This is a Capstone project, which is the last Course ([Java Programming: Build a Recommendation System](https://www.coursera.org/learn/java-programming-design-principles?specialization=java-programming)) of the <br />
 [Java Programming and Software Engineering Fundamentals Specialization](https://www.coursera.org/specializations/java-programming) that designed by Duke University.
