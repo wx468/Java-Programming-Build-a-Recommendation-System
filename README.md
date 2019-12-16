@@ -9,7 +9,7 @@ Learn without enrollment! I searched almost the online resources and finally mad
 The rank and rating of the recommendation are based on the raters who have similar ratings with you, which means you two may have the same preferences for movies.
 The calculation is based on the weighted average from the top similar raters：
 
-  ##### The closer to your rating, the greater the weight
+  #### The closer to your rating, the greater their rating weight
 <br/>
 In this way, you will receive more accurate recommendation because we've already ignored those people have different preferences that may result in bias.<br/><br/>
 
